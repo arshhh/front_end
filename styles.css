@@ -6,10 +6,10 @@
 }
 .main
 {
-  border:solid #D3D3D3 1px;
+  border:solid #d3d3d3 1px;
   margin:10px;
   width:325px;
-  box-shadow: 10px 10px 5px #D3D3D3;
+  box-shadow: 10px 10px 5px #d3d3d3;
 
 }
 .desc
@@ -41,10 +41,16 @@
 .items1
 {
   font-weight: bold;
+  align:left;
 }
 body{
   font-family:cursive;
 }
 .head{
   margin:10px;
+}
+.list
+{
+  list-style-type: none;
+  text-align:left;
 }
